@@ -197,7 +197,7 @@ export function seedData(): void {
       category: 'Repair',
       title: 'Laptop Repair & Diagnostics',
       description: 'Professional laptop repair for all brands including Dell, HP, Lenovo, MacBook. Hardware issues, screen replacement, keyboard fix, battery replacement, and performance optimization.',
-      price: 300,
+      price: 500,
       priceType: 'Starting From',
       serviceRadius: 5,
       availability: 'Weekends',
